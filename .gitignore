@@ -16,4 +16,3 @@ scripts/login_step1.py
 scripts/login_step2.py
 receipts/
 review-receipts/
-.github/workflows/tests.yml
